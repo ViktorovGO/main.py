@@ -1,0 +1,3 @@
+Таблица с именем: stud из базы данных с именем:  bd_test.sqlite
+(10, 'Китайский А.С.', 'KitayskiyAS@mpei.ru')
+(29, 'Шепелев Д.Д.', 'ShepelevDD@mpei.ru')
